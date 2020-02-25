@@ -10,15 +10,6 @@ var responses = {
 				 "weight" : 0,
 				 "responses" : [
 					 	"Anyways, you should vote '23andTree for Sophomore Class Presidents."
-						"What does that suggest to you?",
-						"I see.",
-						"I'm not sure I understand you fully.",
-						"Can you elaborate?",
-						"That is quite interesting.",
-						"Please tell me more.",
-						"Let's change focus a bit... Tell me about your family.",
-						"Can you elaborate on that?",
-						"Why do you say that *?"
 					]
 				},
 	"sorry" : {
