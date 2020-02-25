@@ -9,6 +9,7 @@ var responses = {
 	"NOTFOUND" : {
 				 "weight" : 0,
 				 "responses" : [
+					 	"Anyways, you should vote '23andTree for Sophomore Class Presidents."
 						"What does that suggest to you?",
 						"I see.",
 						"I'm not sure I understand you fully.",
@@ -22,7 +23,7 @@ var responses = {
 				},
 	"sorry" : {
 				 "weight" : 1,
-				 "responses" : ["Please don't apologize.", "Apologies are not necessary.", "Apologies are not required."]},
+				 "responses" : ["Don't apologize. Lmao", "Apologies are not necessary.", "Apologies are not required."]},
 	"always" : {
 				 "weight" : 1,
 				 "responses" : ["Can you think of a specific example?"]},
@@ -40,7 +41,7 @@ var responses = {
 				 "responses" : ["We were discussing you, not me.","Why do you say that about me?"]},
 	"yes" : {
 				 "weight" : 1,
-				 "responses" : ["Why do you think so?","You seem quite positive."]
+				 "responses" : ["Why do you think so?","You seem quite positive.", "Savage"]
 				},
 	"no" : {
 				 "weight" : 1,
@@ -86,7 +87,7 @@ var responses = {
 				 "responses" : ["What does that dream suggest to you?","Do you dream often?","What persons appear in your dreams?","Are you disturbed by your dreams?"]},
 	"hello" : {
 				 "weight" : 1,
-				 "responses" : ["Hi again! How is going?","How are you today? Any problems?"]},
+				 "responses" : ["AYO! How is going?","How are you today? Any problems?"]},
 	"good afternoon" : {
 				 "weight" : 1,
 				 "responses" : ["Hi again! How is going?","How are you today? Any problems?"]},
@@ -159,11 +160,11 @@ var responses = {
 			},
 	"i am happy" : {
 				"weight" : 1,
-				"responses" : ["That's good. What is making you happy?"]
+				"responses" : ["That's good. What is making you happy?", "Flex"]
 			},
 	"i am bored" : {
 				"weight" : 1,
-				"responses" : ["What makes you bored?"]
+				"responses" : ["What makes you bored?" "Couldn't be me."]
 			}
 };
 
